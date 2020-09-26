@@ -1,4 +1,4 @@
-# Data-Exploration
+# Communicate Data Findings (Data Visualization)
 Udacity Project
 # Child Mortality Rate Exploration
 
